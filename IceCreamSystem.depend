@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1725379012 source:c:\users\gotin\desktop\repos\icecreamsystem\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
